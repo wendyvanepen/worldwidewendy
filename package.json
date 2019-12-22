@@ -1,6 +1,7 @@
 {
   "name": "wendy",
   "description": "hoi",
+  "homepage": "www.wendyvanepen.com",
   "version": "0.0.1",
   "scripts": {
     "dev": "npm run exportsapper dev",
