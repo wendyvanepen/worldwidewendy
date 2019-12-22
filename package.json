@@ -1,12 +1,11 @@
 {
   "name": "wendy",
   "description": "hoi",
-  "homepage": "www.wendyvanepen.com",
   "version": "0.0.1",
   "scripts": {
     "dev": "npm run exportsapper dev",
     "build": "sapper build --output public",
-    "export": "sapper export --legacy",
+    "export": "sapper export",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
