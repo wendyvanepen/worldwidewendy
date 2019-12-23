@@ -6,10 +6,10 @@
 
 <style>
   main {
-    position: relative;
+    position: inherit;
     max-width: 56em;
     background-color: white;
-    padding: 2em;
+    padding: 4em;
     margin: 0 auto;
     box-sizing: border-box;
   }

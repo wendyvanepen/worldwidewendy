@@ -2,13 +2,12 @@
   h1,
   figure,
   p {
-    text-align: center;
+    text-align: left;
     margin: 0 auto;
   }
 
   h1 {
     font-size: 2.8em;
-    text-transform: uppercase;
     font-weight: 700;
     margin: 0 0 0.5em 0;
   }
@@ -19,7 +18,7 @@
 
   img {
     width: 100%;
-    max-width: 400px;
+    max-width: 600px;
     margin: 0 0 1em 0;
   }
 
@@ -29,7 +28,7 @@
 
   @media (min-width: 480px) {
     h1 {
-      font-size: 4em;
+      font-size: 2em;
     }
   }
 </style>
@@ -38,15 +37,20 @@
   <title>World Wide Wendy</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Home</h1>
 
 <figure>
   <img alt="Surfing" src="main-banner2.jpg" />
-  <figcaption>HIGH FIVE!</figcaption>
+  <figcaption>Looking for waves</figcaption>
 </figure>
 
 <p>
   <strong>
-    Try editing this file (src/routes/index.svelte) to test live reloading.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+    non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   </strong>
 </p>

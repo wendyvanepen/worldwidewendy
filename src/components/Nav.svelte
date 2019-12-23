@@ -4,7 +4,7 @@
 
 <style>
   nav {
-    border-bottom: 1px solid #263f29;
+    border-bottom: 1px solid #91b496;
     font-weight: 300;
     padding: 0 1em;
   }
@@ -27,6 +27,7 @@
   }
 
   .selected {
+    font-weight: 600;
     position: relative;
     display: inline-block;
   }
@@ -35,10 +36,11 @@
     position: absolute;
     content: "";
     width: calc(100% - 1em);
-    height: 2px;
-    background-color: #536e56;
+    height: 5px;
+    background-color: #435a45;
+    border-radius: 50%;
     display: block;
-    bottom: -1px;
+    bottom: -3px;
   }
 
   a {
