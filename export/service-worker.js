@@ -25,5 +25,6 @@ export const routes = [
    { pattern: /^\/$/ },
    { pattern: /^\/about\/?$/ },
    { pattern: /^\/blog\/?$/ },
+   // eslint-disable-next-line no-useless-escape
    { pattern: /^\/blog\/([^\/]+?)\/?$/ }
 ];
