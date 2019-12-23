@@ -21,12 +21,6 @@
     width: 25px;
     height: 25px;
   }
-
-  span {
-    margin-top: 10px;
-    font-weight: 500;
-    text-align: right;
-  }
 </style>
 
 <footer>
