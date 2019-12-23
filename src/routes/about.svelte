@@ -1,7 +1,20 @@
+<script>
+  import Card from "../components/Card.svelte";
+</script>
+
 <svelte:head>
-	<title>About</title>
+  <title>About</title>
 </svelte:head>
 
-<h1>About this site</h1>
+<h1>About me</h1>
 
-<p>This is the 'about' page. There's not much here.</p>
+<Card>
+  <span slot="name">Wendy van Epen</span>
+
+  <span slot="address">
+    42 Wallaby Way
+    <br />
+    Sydney
+  </span>
+</Card>
+<p />
