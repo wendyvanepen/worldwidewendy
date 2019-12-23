@@ -35,13 +35,13 @@
 </style>
 
 <svelte:head>
-  <title>Sapper project template</title>
+  <title>World Wide Wendy</title>
 </svelte:head>
 
 <h1>Great success!</h1>
 
 <figure>
-  <img alt="Surfing" src="main-banner.jpg" />
+  <img alt="Surfing" src="main-banner2.jpg" />
   <figcaption>HIGH FIVE!</figcaption>
 </figure>
 
