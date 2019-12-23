@@ -4,7 +4,9 @@
 
 <style>
   nav {
+    background-color: #d3ddd4;
     border-bottom: 1px solid #91b496;
+    border-top: 1px solid #91b496;
     font-weight: 300;
     padding: 0 1em;
   }
