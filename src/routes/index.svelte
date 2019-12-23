@@ -4,7 +4,6 @@
 
 <style>
   h1,
-  figure,
   p {
     text-align: left;
     margin: 0 auto;
